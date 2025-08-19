@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints
+*.pkl
+*.joblib
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
