@@ -63,12 +63,13 @@ pip install -r requirements.txt
 
 # Run the Streamlit dashboard
 streamlit run app.py
+```
 
+---
 
-📌 Future Enhancements
+# 👤 Author
+- Syed Abdul Waheed
+- Data Science Enthusiast | Python Developer | Automation Explorer
 
-Implement LSTM / Time Series for better demand forecasting
-
-Integrate real-time airline APIs
-
-Deploy on Streamlit 
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
+- 🐙 GitHub: waheed24-03
