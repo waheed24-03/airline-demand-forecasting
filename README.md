@@ -38,9 +38,9 @@ We also built an **interactive Streamlit dashboard** to visualize booking patter
 ## 📊 Model Performance
 | Metric      | Score  |
 |------------|--------|
-| **Accuracy** | 90%+ |
-| **MAE**     | 2.36  |
-| **R² Score** | 0.79  |
+| **Accuracy**  | 90%+ |
+| **MAE**       | 2.36 |
+| **R² Score**  | 0.79 |
 
 ---
 
