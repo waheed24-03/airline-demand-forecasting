@@ -66,7 +66,7 @@ streamlit run app.py
 ```
 
 ---
- ## Acknowledgements
+## Acknowledgements
 - British Airways
 - Forage
 - Streamlit 
