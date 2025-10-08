@@ -64,7 +64,12 @@ pip install -r requirements.txt
 # Run the Streamlit dashboard
 streamlit run app.py
 ```
-
+---
+## Acknowledgements
+- British Airways
+- Forage
+- Streamlit 
+--- 
 
 
 ## 👤 Author
