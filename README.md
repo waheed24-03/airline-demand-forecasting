@@ -65,12 +65,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-## Acknowledgements
-- British Airways
-- Forage
-- Streamlit 
---- 
+
 
 ## 👤 Author
 - Syed Abdul Waheed
