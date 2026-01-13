@@ -70,5 +70,7 @@ streamlit run app.py
 - Forage
 - Streamlit 
 --- 
+## 👤 Author
+- Syed Abdul Waheed
 
 
